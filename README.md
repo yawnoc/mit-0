@@ -27,6 +27,8 @@ which is what GitHub uses for its license detection.
 
 ## License text
 
+[LICENSE file](LICENSE-MIT-0)
+
 ~~~~
 MIT No Attribution (MIT-0)
 
