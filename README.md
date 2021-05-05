@@ -12,13 +12,6 @@ It is better than:
 [IANAL], but "MIT No Attribution" appears to be as legally robust
 as the original MIT license, without the annoyance of requiring attribution.
 
-**We need 1000 public repositories using "MIT No Attribution" to
-[get it added to choosealicense.com][choosealicense]**,
-so that it will eventually be added to [Licensee],
-which is what GitHub uses for its license detection.
-
-**Start using it!**
-
 ## Links
 
 * [SPDX entry](https://spdx.org/licenses/MIT-0)
@@ -58,5 +51,3 @@ SOFTWARE.
 [cc0 patents]: https://opensource.stackexchange.com/a/1393
   "How could using code released under CC0 infringe on the author's patents?"
 [IANAL]: https://en.wikipedia.org/wiki/IANAL
-[choosealicense]: https://github.com/github/choosealicense.com/issues/754
-[Licensee]: https://github.com/licensee/licensee
